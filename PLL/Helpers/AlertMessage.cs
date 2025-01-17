@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SocialNetwork.PLL.Helpers;
+﻿namespace SocialNetwork.PLL.Helpers;
 
 public class AlertMessage
 {

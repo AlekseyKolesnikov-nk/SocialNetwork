@@ -2,9 +2,6 @@
 using SocialNetwork.BLL.Models;
 using SocialNetwork.BLL.Services;
 using SocialNetwork.PLL.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SocialNetwork.PLL.Views;
 
@@ -45,6 +42,5 @@ public class AuthenticationView
         {
             AlertMessage.Show("Пользователь не найден!");
         }
-
     }
 }
